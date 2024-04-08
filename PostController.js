@@ -48,4 +48,4 @@ class PostController{
     }
 }
 
-export default new PostController()
+export default new PostController();
