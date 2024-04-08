@@ -1,6 +1,6 @@
 import Post from "./Post.js"
 import PostService from "./PostService.js"
-//asdasd
+
 class PostController{
     async create(req, res) {
         try {
